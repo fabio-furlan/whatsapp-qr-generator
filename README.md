@@ -10,5 +10,5 @@ Este projeto gera QR Codes que facilitam o redirecionamento direto para conversa
 
 ## Imagem do QR Code
 
-![QR Code](qrcode_whatsapp.png)
+![QR Code](C:\dev\Projetos\projetos_git\whatsapp-qr-generator\whatsapp-qr-generator\img)
 
